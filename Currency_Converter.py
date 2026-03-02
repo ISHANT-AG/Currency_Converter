@@ -2,7 +2,7 @@ exchange_rates = {
     # Base Currency
     "USD": 1.0,
     # Major World Currencies
-    "EUR": 0.869,
+    "EUR": 0.871,
     "GBP": 0.763,
     "JPY": 156.56,
     "CHF": 0.809,
